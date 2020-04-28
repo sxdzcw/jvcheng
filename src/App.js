@@ -4,7 +4,7 @@ import './App.css';
 function App() {
     return (
         <div className="App">
-            22222
+            <input type="text"/>
         </div>
     );
 }
